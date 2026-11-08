@@ -1,4 +1,4 @@
-package Teste;
+package Visao;
 
 public abstract class AbsTest {
 

@@ -1,4 +1,4 @@
-package Teste;
+package Visao;
 
 import Dominio.Egresso;
 import servico.EgressoSrv;
