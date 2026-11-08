@@ -1,8 +1,8 @@
-package Servico;
+package servico;
 
 import java.util.ArrayList;
 
-import DAO.VisitanteDAO;
+import Dao.VisitanteDAO;
 import Dominio.Visitante;
 
 public class VisitanteSrv extends AbsGenericSrv<Visitante> {

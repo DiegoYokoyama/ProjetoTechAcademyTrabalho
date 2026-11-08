@@ -1,7 +1,7 @@
 package Teste;
 
 import Dominio.Egresso;
-import Servico.EgressoSrv;
+import servico.EgressoSrv;
 
 public class EgressoTest extends AbsTest {
 

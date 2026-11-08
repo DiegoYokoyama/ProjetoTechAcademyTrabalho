@@ -1,8 +1,8 @@
-package Servico;
+package servico;
 
 import java.util.ArrayList;
 
-import DAO.EstagiarioDAO;
+import Dao.EstagiarioDAO;
 import Dominio.Estagiario;
 
 public class EstagiarioSrv extends AbsGenericSrv<Estagiario> {

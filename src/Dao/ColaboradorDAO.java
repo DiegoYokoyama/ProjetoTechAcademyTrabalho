@@ -1,4 +1,4 @@
-package DAO;
+package Dao;
 
 import Dominio.Colaborador;
 import FakeDB.ColaboradorFakeDB;

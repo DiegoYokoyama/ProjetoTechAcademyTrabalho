@@ -1,8 +1,8 @@
-package Servico;
+package servico;
 
 import java.util.ArrayList;
 
-import DAO.ColaboradorDAO;
+import Dao.ColaboradorDAO;
 import Dominio.Colaborador;
 
 public class ColaboradorSrv 

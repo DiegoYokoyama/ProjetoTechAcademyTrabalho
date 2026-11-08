@@ -1,8 +1,8 @@
-package Servico;
+package servico;
 
 import java.util.ArrayList;
 
-import DAO.EgressoDAO;
+import Dao.EgressoDAO;
 import Dominio.Egresso;
 
 public class EgressoSrv extends AbsGenericSrv<Egresso> {

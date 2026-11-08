@@ -1,7 +1,7 @@
 package Teste;
 
 import Dominio.Estagiario;
-import Servico.EstagiarioSrv;
+import servico.EstagiarioSrv;
 
 public class EstagiarioTest extends AbsTest {
 

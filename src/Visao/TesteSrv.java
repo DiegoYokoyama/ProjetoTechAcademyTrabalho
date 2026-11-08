@@ -1,7 +1,7 @@
 package Visao;
 
 import Dominio.Colaborador;
-import Servico.ColaboradorSrv;
+import servico.ColaboradorSrv;
 
 public class TesteSrv extends AbsVisao {
 

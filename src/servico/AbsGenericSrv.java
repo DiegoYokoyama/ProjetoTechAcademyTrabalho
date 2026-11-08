@@ -1,8 +1,8 @@
-package Servico;
+package servico;
 
 import java.util.ArrayList;
 
-import DAO.AbsGenericDAO;
+import Dao.AbsGenericDAO;
 
 public abstract class AbsGenericSrv<T> {
 

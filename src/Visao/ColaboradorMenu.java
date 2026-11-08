@@ -3,7 +3,7 @@ package Visao;
 import java.util.Scanner;
 
 import Dominio.Colaborador;
-import Servico.ColaboradorSrv;
+import servico.ColaboradorSrv;
 
 public class ColaboradorMenu extends AbsMenu{
 

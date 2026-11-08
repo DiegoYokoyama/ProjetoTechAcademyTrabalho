@@ -3,7 +3,7 @@ package Visao;
 import java.util.Scanner;
 
 import Dominio.Estagiario;
-import Servico.EstagiarioSrv;
+import servico.EstagiarioSrv;
 
 public class EstagiarioMenu extends AbsMenu {
 
